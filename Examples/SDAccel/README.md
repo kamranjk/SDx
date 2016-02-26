@@ -50,3 +50,7 @@ Reuse of data stored in the DDR across kernels in different binary containers.
 
 15. **Watermarking:**
 Example of image watermarking.
+
+# More Examples
+[ArrayFire](https://github.com/arrayfire/xilinx_demos) 
+- Fast Feature Detection
