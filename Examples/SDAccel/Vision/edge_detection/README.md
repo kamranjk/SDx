@@ -9,7 +9,7 @@ Achieved performance was measured on an Alpha Data ADM-PCI-7v3 card.
 Output
 ----------
 ![alt tag](https://github.com/Xilinx/SDx/blob/master/Examples/SDAccel/Vision/edge_detection/data/lola.bmp)
-![alt tag](https://github.com/Xilinx/SDx/blob/master/Examples/SDAccel/Vision/edge_detection/data/lola_edges.bmp)
+![alt tag](https://github.com/Xilinx/SDx/blob/master/Examples/SDAccel/Vision/edge_detection/results/lola_edges.bmp)
 
 Changelog
 ----------
