@@ -67,21 +67,21 @@ Benchmarks taken against a GTX 780, using CUDA 7.5
 
 **Unoptimized Results** 
 Task			|	Xilinx Execution Time (in ns)	|	GTX 780 Execution Time (in ns)
-----------------|-----------------------------------|------------------------------------
-Host to Device	|	1,009,806						|	1,841,513
-Device to Host	|	1,593,508						|	8,305,993
-Device Kernel 	|	456,671,835						|	145,980,292
-Total Execution |	459,275,151						|	156,127,805
-Frames per Sec	|	2.2								|	6.9
+------------------------|---------------------------------------|------------------------------------
+Host to Device		|	1,009,806			|	1,841,513
+Device to Host		|	1,593,508			|	8,305,993
+Device Kernel 		|	456,671,835			|	145,980,292
+Total Execution 	|	459,275,151			|	156,127,805
+Frames per Sec		|	2.2				|	6.9
 
 **Optimized Results** 
 Task			|	Xilinx Execution Time (in ns)	|	GTX 780 Execution Time (in ns)
-----------------|-----------------------------------|------------------------------------
-Host to Device	|	1,009,087						|	1,828,606
-Device to Host	|	774,714							|	563,740
-Device Kernel 	|	46,460,532						|	195,938,535
-Total Execution |	48,244,355						|	198,330,886
-Frames per Sec	|	21.5							|	5.1
+------------------------|---------------------------------------|------------------------------------
+Host to Device		|	1,009,087			|	1,828,606
+Device to Host		|	774,714				|	563,740
+Device Kernel 		|	46,460,532			|	195,938,535
+Total Execution 	|	48,244,355			|	198,330,886
+Frames per Sec		|	21.5				|	5.1
 
 *Benchmarks taken against a GTX 780, using CUDA 7.5
 
@@ -100,9 +100,9 @@ http://cis.k.hosei.ac.jp/~wakahara
 
 ## 10. REVISION HISTORY
 
-Date		|	Readme Version		|	Revision Description
-------------|-----------------------|-------------------------
-MAR2016		|	1.0					|	Initial Xilinx release
+Date		|	Readme Version	|	Revision Description
+----------------|-----------------------|-------------------------
+MAR2016		|	1.0		|	Initial Xilinx release
 
 
 
