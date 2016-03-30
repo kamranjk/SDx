@@ -59,13 +59,12 @@ Run `sdaccel run_sda_hw_build` to complile the binaries for HW run.
 ## 5. OTHER INFORMATION
 
 For more information check here: 
-[Full Documentation][]
 [SDAccel User Guides][]
 
 #### Performance Results: 
-Benchmarks taken against a GTX 780, using CUDA 7.5
 
 **Unoptimized Results** 
+
 Task			|	Xilinx Execution Time (in ns)	|	GTX 780 Execution Time (in ns)
 ------------------------|---------------------------------------|------------------------------------
 Host to Device		|	1,009,806			|	1,841,513
@@ -75,6 +74,7 @@ Total Execution 	|	459,275,151			|	156,127,805
 Frames per Sec		|	2.2				|	6.9
 
 **Optimized Results** 
+
 Task			|	Xilinx Execution Time (in ns)	|	GTX 780 Execution Time (in ns)
 ------------------------|---------------------------------------|------------------------------------
 Host to Device		|	1,009,087			|	1,828,606
