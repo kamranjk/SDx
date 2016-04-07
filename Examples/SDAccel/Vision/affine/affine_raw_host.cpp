@@ -41,6 +41,11 @@ ALL TIMES.
 
 *******************************************************************************/
 
+// my updates or 
+// contributions to the code. 
+// time to merge into the master! 
+
+
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
