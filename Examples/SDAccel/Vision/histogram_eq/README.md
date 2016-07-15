@@ -29,7 +29,7 @@ This application is compiled using the SDAccel script mode.
 To compile the application:
 
 ```
-sdaccel equalizer.tcl
+sdaccel hist_equalizer.tcl
 ```
 The target board can be changed by editing *equalizer.tcl*
 
